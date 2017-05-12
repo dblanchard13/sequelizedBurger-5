@@ -3,7 +3,7 @@
     "username": "root",
     "password": null,
     "database": "Burger",
-    "host": "hngomrlb3vfq3jcr.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
