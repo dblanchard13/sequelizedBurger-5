@@ -1,0 +1,58 @@
+body{
+	background-color: #EB7600;
+}
+
+li {
+  padding: 10px;
+  margin: 10px;
+  background: #EFF0F1;
+  border-color: #000000;
+  border-radius: 5px;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+
+button{
+	background-color: #EAB84B;
+	border: none;
+	border-radius: 5px;
+	color: #ffffff;
+	padding: 20px;
+	margin: 20px;
+}
+
+#burger{
+	display: block;
+    margin: auto;
+    width: 20%;
+}
+
+#addburger{
+	display: block;
+    margin: auto;
+    text-align: center;
+}
+
+#burgertitle{
+	text-align: center;
+}
+
+#bg{
+	height: 100px;
+}
+
+.toeat{
+	display: inline;
+	float: left;
+	margin-left: 100px;
+}
+
+.eaten{
+	display: inline;
+	float: right;
+	margin-right: 100px;
+}
