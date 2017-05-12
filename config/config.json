@@ -3,7 +3,7 @@
     "username": "root",
     "password": null,
     "database": "Burger",
-    "host": "127.0.0.1",
+    "host": "hngomrlb3vfq3jcr.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
@@ -14,9 +14,6 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "Burger",
     "use_env_variable":"JawsDB_URL",
     "dialect": "mysql"
   }
