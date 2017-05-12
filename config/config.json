@@ -14,7 +14,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "use_env_variable":"mysql://jhycny68h89h12qo:ynwdcxohhvjf50ax@hngomrlb3vfq3jcr.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/jtlj3j78zdmqr338",
+    "username": "root",
+    "password": null,
+    "database": "Burger",
+    "use_env_variable":"JawsDB_URL",
     "dialect": "mysql"
   }
 }
